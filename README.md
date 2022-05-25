@@ -9,6 +9,10 @@ The finance department wishes to anticipate sales six weeks ahead of time in all
 
 The data team identified factors such as promotions, competition, school and state holidays, seasonality, and locality as necessary for predicting the sales across the various stores.
 
+# Pipeline Design
+
+![Pipeline Design](ml_analysis_practice/Pipeline.PNG)
+
 ## Install
 
 ```
