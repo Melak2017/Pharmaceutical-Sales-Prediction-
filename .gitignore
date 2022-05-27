@@ -1,3 +1,8 @@
 __pycache__/
 .ipynb_checkpoints
 notebooks/untitled.ipynb
+data/combined_train_store.csv
+data/store_train.csv
+data/store.csv
+data/test.csv
+data/train.csv
