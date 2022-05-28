@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/melak/Desktop/Week_0/Pharmaceutical-Sales-Prediction-/mlruns/0/59f3f4d1ca8c401993f309e3882cb55e/artifacts
+end_time: 1653697109318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 59f3f4d1ca8c401993f309e3882cb55e
+run_uuid: 59f3f4d1ca8c401993f309e3882cb55e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653697074836
+status: 3
+tags: []
+user_id: melak
