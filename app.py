@@ -17,7 +17,8 @@ app = MultiApp()
 st.sidebar.markdown("""
 # Rossmann Sales Predictions
 """)
-
+with open('dashboards/applications/style.css') as f:
+    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 # Add all your application here
 app.add_app("visualizations", explorations.app)
 
