@@ -2,14 +2,14 @@
 
 ## Content
 
-- [Overview](#-Overview)
-- [Project Structure](#-Project-Structure)
-- [Dataset Description](#-The-Dataset-Description)
-- [The Dataset](#-Data)
-- [Project Development Method](#-Project-Development-Method)
-- [Dashboard](#-Dashboard)
-- [Article](#-Article)
-- [Install](#-Install)
+- [Overview](#overview)
+- [Project Structure](#project-structure)
+- [Dataset Description](#the-dataset-description)
+- [The Dataset](#data)
+- [Project Development Method](#project-development-method)
+- [Dashboard](#dashboard)
+- [Article](#article)
+- [Install](#install)
 
 ---
 
@@ -155,3 +155,5 @@ You can find my Medium article by following this [link.](https://medium.com/@mel
 clone https://github.com/Melak2017/Pharmaceutical-Sales-Prediction-.git
 pip install -r requirements.txt
 ```
+
+[back to top](#content)
