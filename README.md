@@ -56,9 +56,9 @@ All models that are trained are saved inside models folder
 
 ### notebooks
 
-`data_exploration.ipynb` : Notesbook where exploratory data analysis performed.
+`data_exploration.ipynb` : Notesbook where exploratory data analysis performed.  
 `ml_preprocess.ipynb` : Cleaning and feature selection are conducted in this notebook for the building of machine learning models.Numerical data was rescaled, and categorical data was encoded.  
-`lstm_sale_forecasting.ipynb` : Notebook where time series analysis is performed.
+`lstm_sale_forecasting.ipynb` : Notebook where time series analysis is performed.  
 `Modelling_SalesPrediction.ipynb` :Notebook for machine learning model training
 
 ### screenshots
@@ -67,9 +67,9 @@ A sample screenshots of analysis result
 
 ### scripts
 
-`clean_train_test_df.py`: a python script for cleaning pandas dataframes.
-`data_preview.py`: a python script for selecting data from a pandas. dataframe
-`data_loader.py`: a python script for loading csv and excel files to a dataframe.
+`clean_train_test_df.py`: a python script for cleaning pandas dataframes.  
+`data_preview.py`: a python script for selecting data from a pandas. dataframe.  
+`data_loader.py`: a python script for loading csv and excel files to a dataframe.  
 `data_manipulation.py`: a python script for manipulating dataframes.  
 `plots.py`: a python script for plotting dataframes.  
 `logger_creator.py`: a python script that creates python based logger and helps user log different messages.  
