@@ -1,12 +1,6 @@
-RMSE Score is:
-52.93644%
-R2 Square Score is:
-71.90404%
-MAE Score is:
-37.50832%
-RMSE Score is:
-52.90944%
-R2 Square Score is:
-72.05642%
-MAE Score is:
-37.50892%
+RMSE Score is:52.93644%
+R2 Square Score is:71.90404%
+MAE Score is:37.50832%
+RMSE Score is:52.90944%
+R2 Square Score is:72.05642%
+MAE Score is:37.50892%
